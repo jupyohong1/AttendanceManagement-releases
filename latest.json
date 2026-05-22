@@ -1,0 +1,19 @@
+{
+  "version": "1.0.5",
+  "notes": "출퇴근 관리 앱 v1.0.5",
+  "pub_date": "2026-05-22T02:06:22.105Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTRBWnVSaHFUbHlJNE42VjZDS1hpeTU2OXlRdU5Sa09NRFR1TmxrSkNiWURNZ2hwNE5sSlhqd0JKUk9VeVhpSjI1d1JUTEtYNE5jcWlMQ2lXQWhZbGUzL1RKZXRNdndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDE1NTc3CWZpbGU6QXR0ZW5kYW5jZU1hbmFnZW1lbnRfMS4wLjVfeDY0X2VuLVVTLm1zaQpaTXlDKzhFZUF1RjRqdmt5bDhsMVVIcGZoNzFZRWtsZ1ZTTEFhYXBXeEFhcjBZcmRHczJZUkh6Wi9leXlDdHIwdUV0aUdEZ25iQlJzUzFON2l4M1VCdz09Cg==",
+      "url": "https://github.com/jupyohong1/AttendanceManagement/releases/download/v1.0.5/AttendanceManagement_1.0.5_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTRBWnVSaHFUbHlJNE42VjZDS1hpeTU2OXlRdU5Sa09NRFR1TmxrSkNiWURNZ2hwNE5sSlhqd0JKUk9VeVhpSjI1d1JUTEtYNE5jcWlMQ2lXQWhZbGUzL1RKZXRNdndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDE1NTc3CWZpbGU6QXR0ZW5kYW5jZU1hbmFnZW1lbnRfMS4wLjVfeDY0X2VuLVVTLm1zaQpaTXlDKzhFZUF1RjRqdmt5bDhsMVVIcGZoNzFZRWtsZ1ZTTEFhYXBXeEFhcjBZcmRHczJZUkh6Wi9leXlDdHIwdUV0aUdEZ25iQlJzUzFON2l4M1VCdz09Cg==",
+      "url": "https://github.com/jupyohong1/AttendanceManagement/releases/download/v1.0.5/AttendanceManagement_1.0.5_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTRBWnVSaHFUbC94TEZiTmQvQVN1c3ROYUM5djhuNjhLR3EvUS80N2hNa3hpUThTaVBESGFBRzkrZFZaTm5rRVZtU1RKMU5Cb0FGU1hwcWFEaG5RMnVSS0VaanZhQlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDE1NTc3CWZpbGU6QXR0ZW5kYW5jZU1hbmFnZW1lbnRfMS4wLjVfeDY0LXNldHVwLmV4ZQpSNkc3cmEwUE5hTWZVc1hUZ1UzMWcxTjFrcGRlaFMwRjhCSGZHditoQ2ZBeThLTm9JVVovbnJPRGRvZU4ySDQ5ZGduNi9PdHF0Y2ZlUE5GWE1QV0dDQT09Cg==",
+      "url": "https://github.com/jupyohong1/AttendanceManagement/releases/download/v1.0.5/AttendanceManagement_1.0.5_x64-setup.exe"
+    }
+  }
+}
