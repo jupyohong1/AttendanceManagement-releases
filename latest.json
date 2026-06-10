@@ -1,15 +1,15 @@
 {
-  "version": "1.0.9",
-  "notes": "출퇴근 관리 앱 v1.0.9",
-  "pub_date": "2026-06-09T12:20:27.161Z",
+  "version": "1.1.0",
+  "notes": "## 출퇴근 관리 앱 v1.1.0\n\n### 🐛 버그 수정\n- 트레이에 최소화된 상태에서 실행 파일을 다시 실행할 때 창이 2개 열리는 문제 수정\n  → 이제 기존 창이 앞으로 나타납니다\n\n### ✨ 새 기능\n- 업데이트 후 첫 실행 시 변경사항 공지 다이얼로그 자동 표시",
+  "pub_date": "2026-06-10T09:48:03.429Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTRBWnVSaHFUbHpOVHF3a0JjS1U4Yk85MkpvcWZYTHkyWmNrTU1sS2VLb0NYbkVQMzVNUStpeUtSTFFWZkh2Z2tnRmJPOHhyT3d1RkIremdiSHg1bHRiY24yZkJBRUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDA3NjI0CWZpbGU6QXR0ZW5kYW5jZU1hbmFnZW1lbnRfMS4wLjlfeDY0LXNldHVwLmV4ZQpjc2dMQW43N0N5Qlk1blpuTk5QN1RISE9aMGt3bm1rNEVrYW9GL1UrOVVjSzlhMTI1VysvOERCa1NlSGIrZWh4YjhFN3FrbDBtTHE1RDdqOFdFWVFBQT09Cg==",
-      "url": "https://github.com/jupyohong1/AttendanceManagement-releases/releases/download/v1.0.9/AttendanceManagement_1.0.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTRBWnVSaHFUbDVtRHBLd0RGSDBMaUt6eWhQVmM4Y05kbjBQZkxnVktMNTROWHp5a2RrMmNHaXd2OU90Zy84RmFnaHV0M084d1VmMVg1OWV3SlVjYndEY1k2RjRVZUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDg0ODc5CWZpbGU6QXR0ZW5kYW5jZU1hbmFnZW1lbnRfMS4xLjBfeDY0LXNldHVwLmV4ZQpQWmdZT0doYWxZYU41TEkwZ1ZBRkdiZjhQRWNHeHRQV1huN0ZOTUFRN05OQ1lReHUxd3I5TWQ5VUhhV09BTXFSdnhOZ0FtZ29weDNQeFNLYnRlWXFEdz09Cg==",
+      "url": "https://github.com/jupyohong1/AttendanceManagement-releases/releases/download/v1.1.0/AttendanceManagement_1.1.0_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTRBWnVSaHFUbHpOVHF3a0JjS1U4Yk85MkpvcWZYTHkyWmNrTU1sS2VLb0NYbkVQMzVNUStpeUtSTFFWZkh2Z2tnRmJPOHhyT3d1RkIremdiSHg1bHRiY24yZkJBRUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDA3NjI0CWZpbGU6QXR0ZW5kYW5jZU1hbmFnZW1lbnRfMS4wLjlfeDY0LXNldHVwLmV4ZQpjc2dMQW43N0N5Qlk1blpuTk5QN1RISE9aMGt3bm1rNEVrYW9GL1UrOVVjSzlhMTI1VysvOERCa1NlSGIrZWh4YjhFN3FrbDBtTHE1RDdqOFdFWVFBQT09Cg==",
-      "url": "https://github.com/jupyohong1/AttendanceManagement-releases/releases/download/v1.0.9/AttendanceManagement_1.0.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTRBWnVSaHFUbDVtRHBLd0RGSDBMaUt6eWhQVmM4Y05kbjBQZkxnVktMNTROWHp5a2RrMmNHaXd2OU90Zy84RmFnaHV0M084d1VmMVg1OWV3SlVjYndEY1k2RjRVZUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDg0ODc5CWZpbGU6QXR0ZW5kYW5jZU1hbmFnZW1lbnRfMS4xLjBfeDY0LXNldHVwLmV4ZQpQWmdZT0doYWxZYU41TEkwZ1ZBRkdiZjhQRWNHeHRQV1huN0ZOTUFRN05OQ1lReHUxd3I5TWQ5VUhhV09BTXFSdnhOZ0FtZ29weDNQeFNLYnRlWXFEdz09Cg==",
+      "url": "https://github.com/jupyohong1/AttendanceManagement-releases/releases/download/v1.1.0/AttendanceManagement_1.1.0_x64-setup.exe"
     }
   }
 }
