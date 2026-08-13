@@ -1,15 +1,15 @@
 {
-  "version": "1.2.0",
-  "notes": "ci: tauri-action 릴리즈 생성에 RELEASES_PAT 사용 (앱토큰 403 우회)",
-  "pub_date": "2026-08-13T01:12:01.435Z",
+  "version": "1.2.1",
+  "notes": "- 외근(야근)을 amber-300(주황 계열의 다른 색)으로 별도 표시\n- 야근 집계를 '야근(일반+외근)' 형태로 분리 표기 (예: 야근(3+3))\n- 달력 점: 일반 야근 orange-400, 외근야근 amber-300\n- 이번달/지난달 목록에 amber '외근' 배지 추가\n- OverWork/OverPay에 fieldNight 필드 추가 및 집계 로직 분리\n- 관련 테스트 갱신 (fieldNight 분리 집계 검증)",
+  "pub_date": "2026-08-13T02:40:31.835Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTRBWnVSaHFUbHdLNnAxK3p2eDF4WDFEcHVZVmNuNVlzd3VMZHZzTVhjaC9tbjBPQ0ZSaTI5ZnA4eTRmWWNXRWo4ays2d3RkQnZrMFFrTzcxbE0wNUdsZ2pqZ3JWdVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTgzNTE3CWZpbGU6QXR0ZW5kYW5jZU1hbmFnZW1lbnRfMS4yLjBfeDY0LXNldHVwLmV4ZQpaR1BQLzc0SWpuSDJDcStoblNxbDVsSFlBblMwSkUzYTgwdktaQk5XNDcwTmdoNHpDSHQrQVF2dmJjcDRsNUNENk9udjZMaTZlYXhFMVpjeG1Td3NBUT09Cg==",
-      "url": "https://github.com/jupyohong1/AttendanceManagement-releases/releases/download/v1.2.0/AttendanceManagement_1.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTRBWnVSaHFUbDI5TnJveE0xWDRHTDI4V0JvUkI1SnBMZitHZy9BeWkrQ0xkOFllZGxnbUl4VUNrTFZVeVc0UmNoQWhPUXVpWUl5TkljMlhiem5wZFBkQlhJT0J5ZndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTg4ODI4CWZpbGU6QXR0ZW5kYW5jZU1hbmFnZW1lbnRfMS4yLjFfeDY0LXNldHVwLmV4ZQpFK25vOGFkOTd1MGt0Q1lVd1NUeTF4OFdRbDJsY2xEUVVnQ1BoRlVZWFhkLzRqTjF4ck1CdElsRlY3d2lzeFlUYWU4V1NmcDBsdm1mblY2WGE5QjNDUT09Cg==",
+      "url": "https://github.com/jupyohong1/AttendanceManagement-releases/releases/download/v1.2.1/AttendanceManagement_1.2.1_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTRBWnVSaHFUbHdLNnAxK3p2eDF4WDFEcHVZVmNuNVlzd3VMZHZzTVhjaC9tbjBPQ0ZSaTI5ZnA4eTRmWWNXRWo4ays2d3RkQnZrMFFrTzcxbE0wNUdsZ2pqZ3JWdVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTgzNTE3CWZpbGU6QXR0ZW5kYW5jZU1hbmFnZW1lbnRfMS4yLjBfeDY0LXNldHVwLmV4ZQpaR1BQLzc0SWpuSDJDcStoblNxbDVsSFlBblMwSkUzYTgwdktaQk5XNDcwTmdoNHpDSHQrQVF2dmJjcDRsNUNENk9udjZMaTZlYXhFMVpjeG1Td3NBUT09Cg==",
-      "url": "https://github.com/jupyohong1/AttendanceManagement-releases/releases/download/v1.2.0/AttendanceManagement_1.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTRBWnVSaHFUbDI5TnJveE0xWDRHTDI4V0JvUkI1SnBMZitHZy9BeWkrQ0xkOFllZGxnbUl4VUNrTFZVeVc0UmNoQWhPUXVpWUl5TkljMlhiem5wZFBkQlhJT0J5ZndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTg4ODI4CWZpbGU6QXR0ZW5kYW5jZU1hbmFnZW1lbnRfMS4yLjFfeDY0LXNldHVwLmV4ZQpFK25vOGFkOTd1MGt0Q1lVd1NUeTF4OFdRbDJsY2xEUVVnQ1BoRlVZWFhkLzRqTjF4ck1CdElsRlY3d2lzeFlUYWU4V1NmcDBsdm1mblY2WGE5QjNDUT09Cg==",
+      "url": "https://github.com/jupyohong1/AttendanceManagement-releases/releases/download/v1.2.1/AttendanceManagement_1.2.1_x64-setup.exe"
     }
   }
 }
